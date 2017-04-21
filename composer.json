@@ -4,10 +4,10 @@
   "type": "silverstripe-module",
   "license": "BSD-3-Clause",
   "require": {
-    "silverstripe/cms": "^4@dev",
     "silverstripe/framework": "^4@dev",
-    "silverstripe/campaign-admin": "^1@dev",
-    "silverstripe/graphql": "^0.2@dev"
+    "silverstripe/graphql": "^0.2@dev",
+    "silverstripe/admin": "1.0.x-dev",
+    "silverstripe/campaign-admin": "1.0.x-dev"
   },
   "require-dev": {
     "phpunit/PHPUnit": "~4.8",
